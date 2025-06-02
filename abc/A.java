@@ -1,3 +1,3 @@
 Class A{
-	System.out.println("Hello");
+	System.out.println("Good morning");
 }
